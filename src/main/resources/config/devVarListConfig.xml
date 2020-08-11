@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devVarList>
+  <devece dwdevTypeId="2124" dwVariantId="212401" szVariantDesc="播放表" dwSendCmd="39" dwRecvCmd="40" szFuncAbbr="LST"/>
+  <devece dwdevTypeId="2124" dwVariantId="212402" szVariantDesc="亮度" dwSendCmd="23" dwRecvCmd="24" szFuncAbbr="BRI"/>
+  <devece dwdevTypeId="2124" dwVariantId="212404" szVariantDesc="开屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="OPN"/>
+  <devece dwdevTypeId="2124" dwVariantId="212405" szVariantDesc="关屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="CLS"/>
+  <devece dwdevTypeId="2124" dwVariantId="212418" szVariantDesc="温度异常故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER1"/>
+  <devece dwdevTypeId="2124" dwVariantId="212422" szVariantDesc="风扇故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER2"/>
+  <devece dwdevTypeId="2124" dwVariantId="212421" szVariantDesc="箱体电压故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER3"/>
+  <devece dwdevTypeId="2124" dwVariantId="212423" szVariantDesc="门开关故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER4"/>
+  <devece dwdevTypeId="2124" dwVariantId="212424" szVariantDesc="亮度检测故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER5"/>
+  <devece dwdevTypeId="2124" dwVariantId="212419" szVariantDesc="通讯故障" dwSendCmd="00" dwRecvCmd="99" szFuncAbbr="COM"/>
+
+  <devece dwdevTypeId="2125" dwVariantId="212501" szVariantDesc="播放表" dwSendCmd="39" dwRecvCmd="40" szFuncAbbr="LST"/>
+  <devece dwdevTypeId="2125" dwVariantId="212502" szVariantDesc="亮度" dwSendCmd="23" dwRecvCmd="24" szFuncAbbr="BRI"/>
+  <devece dwdevTypeId="2125" dwVariantId="212504" szVariantDesc="开屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="OPN"/>
+  <devece dwdevTypeId="2125" dwVariantId="212505" szVariantDesc="关屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="CLS"/>
+  <devece dwdevTypeId="2125" dwVariantId="212518" szVariantDesc="温度异常故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER1"/>
+  <devece dwdevTypeId="2125" dwVariantId="212522" szVariantDesc="风扇故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER2"/>
+  <devece dwdevTypeId="2125" dwVariantId="212521" szVariantDesc="箱体电压故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER3"/>
+  <devece dwdevTypeId="2125" dwVariantId="212523" szVariantDesc="门开关故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER4"/>
+  <devece dwdevTypeId="2125" dwVariantId="212524" szVariantDesc="亮度检测故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER5"/>
+  <devece dwdevTypeId="2125" dwVariantId="212519" szVariantDesc="通讯故障" dwSendCmd="00" dwRecvCmd="99" szFuncAbbr="COM"/>
+
+  <devece dwdevTypeId="2221" dwVariantId="222101" szVariantDesc="播放表" dwSendCmd="39" dwRecvCmd="40" szFuncAbbr="LST"/>
+  <devece dwdevTypeId="2221" dwVariantId="222102" szVariantDesc="亮度" dwSendCmd="23" dwRecvCmd="24" szFuncAbbr="BRI"/>
+  <devece dwdevTypeId="2221" dwVariantId="222104" szVariantDesc="开屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="OPN"/>
+  <devece dwdevTypeId="2221" dwVariantId="222105" szVariantDesc="关屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="CLS"/>
+  <devece dwdevTypeId="2221" dwVariantId="222118" szVariantDesc="温度异常故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER1"/>
+  <devece dwdevTypeId="2221" dwVariantId="222122" szVariantDesc="风扇故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER2"/>
+  <devece dwdevTypeId="2221" dwVariantId="222121" szVariantDesc="箱体电压故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER3"/>
+  <devece dwdevTypeId="2221" dwVariantId="222123" szVariantDesc="门开关故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER4"/>
+  <devece dwdevTypeId="2221" dwVariantId="222124" szVariantDesc="亮度检测故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER5"/>
+  <devece dwdevTypeId="2221" dwVariantId="222119" szVariantDesc="通讯故障" dwSendCmd="00" dwRecvCmd="99" szFuncAbbr="COM"/>
+
+  <devece dwdevTypeId="2222" dwVariantId="222201" szVariantDesc="播放表" dwSendCmd="39" dwRecvCmd="40" szFuncAbbr="LST"/>
+  <devece dwdevTypeId="2222" dwVariantId="222202" szVariantDesc="亮度" dwSendCmd="23" dwRecvCmd="24" szFuncAbbr="BRI"/>
+  <devece dwdevTypeId="2222" dwVariantId="222204" szVariantDesc="开屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="OPN"/>
+  <devece dwdevTypeId="2222" dwVariantId="222205" szVariantDesc="关屏" dwSendCmd="11" dwRecvCmd="12" szFuncAbbr="CLS"/>
+  <devece dwdevTypeId="2222" dwVariantId="222218" szVariantDesc="温度异常故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER1"/>
+  <devece dwdevTypeId="2222" dwVariantId="222222" szVariantDesc="风扇故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER2"/>
+  <devece dwdevTypeId="2222" dwVariantId="222221" szVariantDesc="箱体电压故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER3"/>
+  <devece dwdevTypeId="2222" dwVariantId="222223" szVariantDesc="门开关故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER4"/>
+  <devece dwdevTypeId="2222" dwVariantId="222224" szVariantDesc="亮度检测故障" dwSendCmd="01" dwRecvCmd="01" szFuncAbbr="ER5"/>
+  <devece dwdevTypeId="2222" dwVariantId="222219" szVariantDesc="通讯故障" dwSendCmd="00" dwRecvCmd="99" szFuncAbbr="COM"/>
+</devVarList>
